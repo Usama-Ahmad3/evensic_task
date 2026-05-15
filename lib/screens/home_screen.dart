@@ -632,7 +632,7 @@ class _HydrationGauge extends StatelessWidget {
                       width: 5,
                       height: 120 * pct,
                       decoration: BoxDecoration(
-                        color: AppTheme.orange,
+                        color: AppTheme.blue,
                         borderRadius: BorderRadius.circular(3),
                       ),
                     ),
